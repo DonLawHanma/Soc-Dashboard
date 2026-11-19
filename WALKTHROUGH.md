@@ -237,8 +237,5 @@ Verify the agent shows Active and Suricata alerts appear in Security Events.
 - [ ] Indexer bound to 127.0.0.1
 - [ ] Suricata rules loaded and a test alert appears in `eve.json`
 - [ ] Agent Active and Suricata alerts visible in the dashboard
-- [ ] No real IPs, passwords or keys in the repo
 
-## Screenshots
 
-Add screenshots to `docs/images/` and link them here. Blur IP addresses and remove any visible passwords first.
